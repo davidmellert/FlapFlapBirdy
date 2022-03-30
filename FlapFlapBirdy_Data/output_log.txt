@@ -1,0 +1,96 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   27.21.14.5296
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Spiele\FlapFlapBirdy\FlapFlapBirdy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Spiele\FlapFlapBirdy\FlapFlapBirdy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Spiele\FlapFlapBirdy\FlapFlapBirdy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Spiele\FlapFlapBirdy\FlapFlapBirdy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Spiele\FlapFlapBirdy\FlapFlapBirdy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Spiele\FlapFlapBirdy\FlapFlapBirdy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Spiele\FlapFlapBirdy\FlapFlapBirdy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Spiele\FlapFlapBirdy\FlapFlapBirdy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.395 seconds
+Platform assembly: E:\Spiele\FlapFlapBirdy\FlapFlapBirdy_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Spiele\FlapFlapBirdy\FlapFlapBirdy_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 3.433300 ms
+Birdy collided with something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.345700 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 0.263900 ms (FindLiveObjects: 0.026500 ms CreateObjectMapping: 0.014700 ms MarkObjects: 0.211000 ms  DeleteObjects: 0.011100 ms)
+
+Birdy collided with something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.380300 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 0.571200 ms (FindLiveObjects: 0.054900 ms CreateObjectMapping: 0.047600 ms MarkObjects: 0.435400 ms  DeleteObjects: 0.031600 ms)
+
+Birdy collided with something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.372000 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 1.088100 ms (FindLiveObjects: 0.081300 ms CreateObjectMapping: 0.053900 ms MarkObjects: 0.913300 ms  DeleteObjects: 0.037600 ms)
+
+Birdy collided with something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.358100 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 0.247400 ms (FindLiveObjects: 0.022700 ms CreateObjectMapping: 0.012500 ms MarkObjects: 0.197900 ms  DeleteObjects: 0.013800 ms)
+
+Birdy collided with something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.367200 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 0.245900 ms (FindLiveObjects: 0.025000 ms CreateObjectMapping: 0.014100 ms MarkObjects: 0.196000 ms  DeleteObjects: 0.010200 ms)
+
+Collided
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collided
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Birdy collided with something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Birdy collided with something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: b1c -> priority: 1 
+  Thread -> id: 4cfc -> priority: 1 
+  Thread -> id: 2918 -> priority: 1 
+  Thread -> id: 2ca0 -> priority: 1 
